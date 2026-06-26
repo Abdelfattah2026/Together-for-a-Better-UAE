@@ -2,10 +2,17 @@
 ## Together for a Better UAE
 ### معاً من أجل إمارات أفضل
 
+
 > **Our UAE, Our Pride... Towards a More Sustainable Future.**  
 > **إماراتنا فخر... نحو مستقبل أكثر استدامة.**
 
----
+---<p align="center">
+  <img src="assets/banner.png" width="100%">
+</p>
+
+<p align="center">
+  <img src="assets/logo.png" width="180">
+</p>
 
 # Tatweer Hackathon 2026
 
