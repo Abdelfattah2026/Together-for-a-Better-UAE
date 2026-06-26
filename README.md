@@ -245,6 +245,7 @@ EcoUAE follows a simple step-by-step workflow that can be implemented gradually 
 وبذلك تصبح المنظومة أكثر استدامة عاماً بعد عام.
 
 ---
+
 # 📸 Project Visual Overview
 
 ## 🔄 Workflow
