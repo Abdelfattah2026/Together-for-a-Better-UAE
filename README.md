@@ -141,8 +141,9 @@ Instead of treating each environmental challenge separately, EcoUAE creates one 
           │
           ▼
 🌍 Stronger & More Sustainable Communities
----
+```
 
+---
 # ⚙️ How EcoUAE Works | كيف يعمل المشروع
 
 EcoUAE follows a simple step-by-step workflow that can be implemented gradually with municipality supervision.
