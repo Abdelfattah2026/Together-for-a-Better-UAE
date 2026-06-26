@@ -245,7 +245,31 @@ EcoUAE follows a simple step-by-step workflow that can be implemented gradually 
 وبذلك تصبح المنظومة أكثر استدامة عاماً بعد عام.
 
 ---
+---
 
+# 📸 Project Visual Overview
+
+## 🔄 Workflow
+
+![Workflow](assets/workflow.png)
+
+---
+
+## 🏗️ System Architecture
+
+![Architecture](assets/architecture.png)
+
+---
+
+## 📱 Mobile Application
+
+![Mobile App](assets/mobile_app.png)
+
+---
+
+## ♻️ Circular Sustainability Cycle
+
+![Circular Cycle](assets/circular_cycle.png)
 # 🇬🇧 Workflow
 
 1. Register.
