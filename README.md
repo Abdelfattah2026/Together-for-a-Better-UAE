@@ -5,11 +5,13 @@
 # 🌍 EcoUAE
 
 ## Together for a Better UAE
+
 ### معاً من أجل إمارات أفضل
 
 > **Our UAE, Our Pride... Towards a More Sustainable Future.**
 >
 > **إماراتنا فخر... نحو مستقبل أكثر استدامة.**
+
 
 ---
 # Tatweer Hackathon 2026
