@@ -2,6 +2,9 @@
   <img src="assets/banner.png" width="100%">
 </p>
 
+<p align="center">
+  <img src="assets/logo.png" width="180">
+</p>
 # 🌍 EcoUAE
 
 ## Together for a Better UAE
