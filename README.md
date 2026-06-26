@@ -119,7 +119,7 @@ EcoUAE transforms waste into value by connecting households, municipalities, far
 - 🏆 Reward citizens
 - 📊 Support municipality decision-making
 - ☀️ Build a circular economy
-- > EcoUAE directly supports digital infrastructure, sustainability, and community engagement for rural communities in Al Qua'a, aligning with the Tatweer Hackathon objectives.
+ > EcoUAE directly supports digital infrastructure, sustainability, and community engagement for rural communities in Al Qua'a, aligning with the Tatweer Hackathon objectives.
   
 # 🌍 The Challenge | التحدي
 
