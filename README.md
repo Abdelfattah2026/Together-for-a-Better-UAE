@@ -279,24 +279,6 @@ EcoUAE follows a practical step-by-step workflow that enables gradual implementa
 6. Hydroponic Farming
 7. Community Rewards
 8. Reinvestment
-🎥 Project Demo
-
-Watch a short demonstration of the EcoUAE prototype:
-
-▶ Demo Video
-
-https://youtu.be/87oTzra0PU8?si=pXbVylW1TuDobM1m
-
-The demo showcases
-
-- Project overview
-- Smart sustainability workflow
-- Mobile application concept
-- System architecture
-- Circular economy model
-- Expected environmental and community impact
-
-«This demonstration presents the current prototype developed during Tatweer Hackathon 2026 and illustrates the project's core functionality and future deployment vision.»
 ---
 # 🚀 Pilot Implementation | خطة التنفيذ
 
