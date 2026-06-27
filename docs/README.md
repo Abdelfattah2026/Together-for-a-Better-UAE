@@ -1,3 +1,4 @@
 # Documentation
+Detailed documentation will be prepared for the Final Presentation if the project qualifies for the Top 10.
 
-This folder contains the detailed project documentation.
+This repository focuses on the implementation, validation, and README documentation required for the filtration stage.
