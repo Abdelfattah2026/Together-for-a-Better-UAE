@@ -12,6 +12,13 @@
 - [Workflow](#-how-ecouae-works--كيف-يعمل-المشروع)
 - [Technology Stack](#-technology-stack--التقنيات-المستخدمة)
 - [Future Vision](#-future-vision--الرؤية-المستقبلية)
+  
+  ## 🎥 Demo Video
+
+Watch the prototype in action:
+
+https://youtu.be/87oTzra0PU8?si=pXbVylW1TuDobM1m
+
 # 🌍 EcoUAE
 
 ## Together for a Better UAE
