@@ -235,18 +235,32 @@ EcoUAE follows a practical step-by-step workflow that enables gradual implementa
 ![Architecture](assets/architecture.png)
 
 ---
+## 💧 Greywater Treatment
+
+<p align="center">
+  <img src="assets/greywater-system-infographic.png" width="900">
+</p>
 
 ## 📱 Mobile Application
 
 ![Mobile App](assets/mobile_app.png)
 
 ---
+## 🎁 Sustainability Incentive Model
 
+<p align="center">
+  <img src="assets/sustainability-model.png" width="900">
+</p>
 ## ♻️ Circular Sustainability Cycle
 
 ![Circular Cycle](assets/circular_cycle.png)
 
 ---
+## 🏡 Home Resources Cycle
+
+<p align="center">
+  <img src="assets/home-resources-cycle.png" width="900">
+</p>
 
 # 🇬🇧 Workflow Summary
 
@@ -413,6 +427,11 @@ EcoUAE is more than an environmental initiative.
 It is a national sustainability ecosystem that connects citizens, municipalities, businesses, and technology to build cleaner, smarter, and more resilient communities across the UAE.
 
 ---
+## ☀️ Future Renewable Energy Integration
+
+<p align="center">
+  <img src="assets/solar-energy-system.png" width="900">
+</p>
 
 # ▶️ Project Demonstration | عرض المشروع
 
